@@ -44,6 +44,7 @@ public class Application {
 		
 		Trainingsgroep t2 = new Trainingsgroep(20, "03-02-2023", "FebGroep", false);
 		t2.printAllInfo(); 
+		System.out.println("Git test");
 	
 	}
 }
